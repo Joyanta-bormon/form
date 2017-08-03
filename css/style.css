@@ -1,0 +1,14 @@
+.bg{background:url(../images/bg.jpeg);background-size:cover; height:900px}
+
+.box{width: 380px;
+background: #E0E0E0;
+padding: 0 15px;
+position: absolute;
+left: 50%;
+top: 50%;
+transform: translate(-50%,-50%);
+text-align:center}
+.box p{margin-top:5px; font-size:14px}
+.box h1{text-transform:uppercase}
+.box h1 img{width:40px}
+
